@@ -1,0 +1,15 @@
+C:\Proyectos\Clase19\bin\Debug\net7.0\Clase19.exe
+C:\Proyectos\Clase19\bin\Debug\net7.0\Clase19.deps.json
+C:\Proyectos\Clase19\bin\Debug\net7.0\Clase19.runtimeconfig.json
+C:\Proyectos\Clase19\bin\Debug\net7.0\Clase19.dll
+C:\Proyectos\Clase19\bin\Debug\net7.0\Clase19.pdb
+C:\Proyectos\Clase19\obj\Debug\net7.0\Clase19.csproj.AssemblyReference.cache
+C:\Proyectos\Clase19\obj\Debug\net7.0\Clase19.GeneratedMSBuildEditorConfig.editorconfig
+C:\Proyectos\Clase19\obj\Debug\net7.0\Clase19.AssemblyInfoInputs.cache
+C:\Proyectos\Clase19\obj\Debug\net7.0\Clase19.AssemblyInfo.cs
+C:\Proyectos\Clase19\obj\Debug\net7.0\Clase19.csproj.CoreCompileInputs.cache
+C:\Proyectos\Clase19\obj\Debug\net7.0\Clase19.dll
+C:\Proyectos\Clase19\obj\Debug\net7.0\refint\Clase19.dll
+C:\Proyectos\Clase19\obj\Debug\net7.0\Clase19.pdb
+C:\Proyectos\Clase19\obj\Debug\net7.0\Clase19.genruntimeconfig.cache
+C:\Proyectos\Clase19\obj\Debug\net7.0\ref\Clase19.dll

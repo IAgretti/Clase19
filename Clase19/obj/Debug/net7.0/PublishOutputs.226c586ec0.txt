@@ -1,0 +1,5 @@
+C:\Proyectos\Clase19\bin\Debug\net7.0\publish\Clase19.exe
+C:\Proyectos\Clase19\bin\Debug\net7.0\publish\Clase19.dll
+C:\Proyectos\Clase19\bin\Debug\net7.0\publish\Clase19.deps.json
+C:\Proyectos\Clase19\bin\Debug\net7.0\publish\Clase19.runtimeconfig.json
+C:\Proyectos\Clase19\bin\Debug\net7.0\publish\Clase19.pdb

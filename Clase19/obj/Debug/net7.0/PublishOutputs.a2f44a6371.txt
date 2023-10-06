@@ -1,0 +1,5 @@
+C:\build_output\Clase19.exe
+C:\build_output\Clase19.dll
+C:\build_output\Clase19.deps.json
+C:\build_output\Clase19.runtimeconfig.json
+C:\build_output\Clase19.pdb
